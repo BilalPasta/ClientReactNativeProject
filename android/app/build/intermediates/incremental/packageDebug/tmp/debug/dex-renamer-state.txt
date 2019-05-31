@@ -1,0 +1,4 @@
+#Mon May 27 20:20:36 PDT 2019
+base.0=E\:\\Tranxen-master\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
